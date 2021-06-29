@@ -1,8 +1,7 @@
 ## REST server nodejs
+This is the first REST server of the node.js course
 
-Este es el primer servidor REST del curso node.js
-
-Ejecurar este comando
+Run this command
 
 ```
 npm install
